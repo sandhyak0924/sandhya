@@ -1,0 +1,82 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+/target/
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Dependency-reduced POM
+dependency-reduced-pom.xml
+
+# Spring Boot devtools
+.restart
+
+# Application properties (optional — only if you store secrets)
+application-*.properties
+application-*.yml
+
+# IDE files
+
+## IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS files
+
+## macOS
+.DS_Store
+
+## Windows
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs & runtime files
+logs/
+*.pid
+*.seed
+
+# Test output
+surefire-reports/
+failsafe-reports/
+
+# Coverage reports
+coverage/
+jacoco.exec
+
+# Docker (if used)
+*.env
+.env
+
+# Node (if frontend included)
+node_modules/
+dist/
+
+# Misc
+*.bak
+*.orig
