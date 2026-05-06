@@ -1,4 +1,5 @@
 ## 1. Setup (Docker Kafka Environment)
+AKIAS6BQGHENHIX7DMWH,k/OCjWfkhM/SxAKB915c9HGaaNfGoL+Plm0cYJ+B
 
     docker-compose up
 
